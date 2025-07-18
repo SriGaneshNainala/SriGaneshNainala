@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="left">Hey there! I'm Sri Ganesh Nainala 👋<br><br>🎓 A Computer Science graduate with hands-on experience building full-stack applications using Java, Spring Boot, React.js, Node.js, and MongoDB.<br><br>💻 I’ve developed secure, scalable projects like eBook Haven and Budget Tracker, and I'm AWS Cloud Foundations certified.<br><br>🚀 Actively seeking full-time Full Stack Developer roles across India</p>
+<p align="left">Hey there! I'm Sri Ganesh Nainala 👋<br><br>🎓 A Computer Science graduate passionate about building scalable, secure full-stack applications using Java, Spring Boot, React.js, Node.js, and MongoDB.<br><br>💡 I've delivered projects like eBook Haven and Budget Tracker, and I'm certified in AWS Cloud Foundations with a strong grasp of cloud architecture.<br><br>🚀 Currently seeking full-time Full Stack Developer roles where I can contribute to innovative and impactful solutions.</p>
 
 ## Languages-Frameworks-Tools
 
